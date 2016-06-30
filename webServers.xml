@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8002cc4b-267b-4e20-b428-bb5d7b285adf" name="Shop Floor Automations" url="http://local-shopfloorautomations/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
