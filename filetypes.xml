@@ -1,8 +1,13 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="q-002" type="PHP" />
-      <mapping pattern="dd" type="PLAIN_TEXT" />
+      <mapping ext="rules" type="JSON" />
+      <mapping pattern="error_log" type="PLAIN_TEXT" />
+      <mapping pattern="split-button-dropdown.html" type="PLAIN_TEXT" />
+      <mapping pattern="q-007" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
