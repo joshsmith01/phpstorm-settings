@@ -266,7 +266,6 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="CONSOLE_RED_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff6767" />
@@ -1670,9 +1669,6 @@
       <value>
         <option name="FOREGROUND" value="339999" />
       </value>
-    </option>
-    <option name="SQL_PARAMETER">
-      <value />
     </option>
     <option name="SQL_PROCEDURE">
       <value>
