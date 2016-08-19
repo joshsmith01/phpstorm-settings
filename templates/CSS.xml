@@ -1,0 +1,8 @@
+<templateSet group="CSS">
+  <template name="comm-block" value="/*=============================================&#10;=            START $Section$                  =&#10;=============================================*/&#10;&#10; $END$&#10;&#10;/*=====  END of $Section$  ===================*/&#10;" description="Comment sections of code" toReformat="false" toShortenFQNames="true">
+    <variable name="Section" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
