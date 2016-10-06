@@ -3,6 +3,7 @@
     <option name="customScope" value="Selection" />
     <option name="defaultScopeName" value="Selection" />
     <option name="SEARCH_SCOPE" value="Selection" />
+    <option name="FILE_MASK" value="*.php, *.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +16,7 @@
       <mask>*.css</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.php, *.js</mask>
     </recentFileMasks>
   </component>
 </application>
