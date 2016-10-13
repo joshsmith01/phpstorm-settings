@@ -1,0 +1,7 @@
+<templateSet group="html/xml">
+  <template name="lli" value="&lt;li&gt;$SELECTION$&lt;/li&gt;&#10;$END$" shortcut="SPACE" description="Massivly create a list by hand" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
