@@ -1,7 +1,7 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/Applications/MAMP/bin/php/php7.0.12/bin/php" id="72a0dc8a-63cd-459e-804a-5b2b1a5dcbea" name="PHP from MAMP Pro" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/Applications/MAMP/bin/php/php7.0.12/bin/php" id="72a0dc8a-63cd-459e-804a-5b2b1a5dcbea" name="PHP from MAMP Pro" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/MAMP/conf/php7.0.12/php.ini" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
