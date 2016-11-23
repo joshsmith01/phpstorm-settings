@@ -7,7 +7,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP from MAMP Pro">
-        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.0.12/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.0.12/bin/php" path_separator=":" version="7.0.12">
+        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.0.12/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.0.12/bin/php" path_separator=":" version="7.0.12" warning="Failed loading /Applications/MAMP/conf/php7.0.12/php.ini:  dlopen(/Applications/MAMP/conf/php7.0.12/php.ini, 9): no suitable image found.  Did find:&#10;&#9;/Applications/MAMP/conf/php7.0.12/php.ini: unknown file type, first eight bytes: 0x5B 0x50 0x48 0x50 0x5D 0x0A 0x0A 0x3B&#10;">
           <additional_php_ini />
           <configuration_file>/Applications/MAMP/bin/php/php7.0.12/conf/php.ini</configuration_file>
           <configuration_options>
