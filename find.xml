@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Selection" />
-    <option name="FILE_MASK" value="*.php, *.js" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,9 +16,9 @@
       <mask>*.mxml</mask>
       <mask>*.scss</mask>
       <mask>*.css</mask>
-      <mask>*.js</mask>
       <mask>*.php</mask>
       <mask>*.php, *.js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
