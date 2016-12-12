@@ -5,5 +5,8 @@
       <template name="WP Plugin README.md" reformat="true" live-template-enabled="true" />
       <template name="XSLT Stylesheet.xsl" reformat="true" live-template-enabled="false" enabled="false" />
     </default_templates>
+    <internal_templates>
+      <template name="SCSS File.scss" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
   </component>
 </application>
