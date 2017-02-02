@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Selection" />
-    <option name="defaultScopeName" value="Selection" />
-    <option name="SEARCH_SCOPE" value="Selection" />
+    <option name="customScope" value="File '.../wp-content/themes/dicebiz/page-dice-verified.php - [dicewordpress-products]'" />
+    <option name="defaultScopeName" value="File '.../wp-content/themes/dicebiz/page-dice-verified.php - [dicewordpress-products]'" />
+    <option name="SEARCH_SCOPE" value="File '.../wp-content/themes/dicebiz/page-dice-verified.php - [dicewordpress-products]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
