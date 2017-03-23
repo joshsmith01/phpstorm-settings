@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '.../admin/headlines-settings.php - [Dice-WP-REST-API-For-Headlines]'" />
     <option name="defaultScopeName" value="File '.../admin/headlines-settings.php - [Dice-WP-REST-API-For-Headlines]'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../admin/headlines-settings.php - [Dice-WP-REST-API-For-Headlines]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
