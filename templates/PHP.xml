@@ -5,4 +5,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="_e" value="&lt;?php _e( &quot;$SELECTION$&quot;, &quot;text-domain&quot; ) ?&gt; $END$" description="Display translated text." toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
