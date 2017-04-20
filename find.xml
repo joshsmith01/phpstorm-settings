@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../admin/js/reorder.js - [Dice-WP-REST-API-For-Headlines]'" />
-    <option name="defaultScopeName" value="File '.../admin/js/reorder.js - [Dice-WP-REST-API-For-Headlines]'" />
-    <option name="SEARCH_SCOPE" value="File '.../admin/js/reorder.js - [Dice-WP-REST-API-For-Headlines]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,9 +13,14 @@
       <mask>*.mxml</mask>
       <mask>*.scss</mask>
       <mask>*.css</mask>
-      <mask>*.php</mask>
       <mask>*.php, *.js</mask>
+      <mask>*.js\\</mask>
+      <mask>*.js\</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
