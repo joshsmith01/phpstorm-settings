@@ -5,7 +5,8 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="eee" value="&lt;?php _e( '$SELECTION$', 'dicebiz2016' ); ?&gt; $END$" description="Display translated text." toReformat="true" toShortenFQNames="true">
+  <template name="eee" value="&lt;?php _e( '$clipboard$', 'dicenews2015' ); ?&gt; $END$ " description="Display translated text." toReformat="true" toShortenFQNames="true">
+    <variable name="clipboard" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
