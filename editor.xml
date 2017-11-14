@@ -11,6 +11,7 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern pattern="TODO:" />
+    <pattern pattern="\bTODO\:\b.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingOpacity" value="30" />
