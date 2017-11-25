@@ -6,15 +6,15 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/Applications/MAMP/bin/php/php7.0.15/bin/php" id="c6ee6982-4d20-40a0-b4ba-78cfefe40178" name="PHP" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/Applications/MAMP/bin/php/php7.0.22/bin/php" id="c6ee6982-4d20-40a0-b4ba-78cfefe40178" name="PHP" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.0.15/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.0.15/bin/php" path_separator=":" version="7.0.15">
+        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.0.22/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.0.22/bin/php" path_separator=":" version="7.0.22">
           <additional_php_ini />
-          <configuration_file>/Applications/MAMP/bin/php/php7.0.15/conf/php.ini</configuration_file>
+          <configuration_file>/Applications/MAMP/bin/php/php7.0.22/conf/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -65,7 +65,7 @@
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="exit_on_timeout" value="0" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="/Applications/MAMP/bin/php/php7.0.15/lib/php/extensions/no-debug-non-zts-20151012/" />
+            <configuration_option name="extension_dir" value="/Applications/MAMP/bin/php/php7.0.22/lib/php/extensions/no-debug-non-zts-20151012/" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -84,7 +84,7 @@
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="implicit_flush" value="1" />
-            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.0.15/lib/php" />
+            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.0.22/lib/php" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
             <configuration_option name="intl.default_locale" value="" />
@@ -157,7 +157,7 @@
             <configuration_option name="phar.require_hash" value="1" />
             <configuration_option name="post_max_size" value="32M" />
             <configuration_option name="precision" value="12" />
-            <configuration_option name="realpath_cache_size" value="16K" />
+            <configuration_option name="realpath_cache_size" value="4096K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
             <configuration_option name="register_argc_argv" value="1" />
             <configuration_option name="report_memleaks" value="1" />
