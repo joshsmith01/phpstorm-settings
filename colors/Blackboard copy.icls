@@ -17,11 +17,10 @@
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="1a1e2e" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="c1021" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="FILESTATUS_ADDED" value="9cff2f" />
     <option name="FILESTATUS_MODIFIED" value="789de0" />
     <option name="GUTTER_BACKGROUND" value="c1021" />
@@ -202,6 +201,12 @@
         <option name="FOREGROUND" value="aeaeae" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="efefef" />
+      </value>
+    </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="c7c7ff" />
@@ -210,6 +215,12 @@
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="6b8b8" />
+      </value>
+    </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="555555" />
+        <option name="BACKGROUND" value="efefef" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -256,6 +267,7 @@
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="754200" />
+        <option name="BACKGROUND" value="7eb6ff" />
       </value>
     </option>
     <option name="CSS.COMMENT">
@@ -847,6 +859,18 @@
     <option name="LABEL">
       <value>
         <option name="FOREGROUND" value="fbde2d" />
+      </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="555555" />
+        <option name="BACKGROUND" value="be7ea4" />
+      </value>
+    </option>
+    <option name="LOG_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c0a54" />
+        <option name="BACKGROUND" value="dd1518" />
       </value>
     </option>
     <option name="MACRONAME">
