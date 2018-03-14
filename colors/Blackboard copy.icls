@@ -391,6 +391,14 @@
         <option name="FOREGROUND" value="61ce3c" />
       </value>
     </option>
+    <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
+      <value>
+        <option name="FOREGROUND" value="ff2804" />
+        <option name="BACKGROUND" value="319c90" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="ff6400" />
