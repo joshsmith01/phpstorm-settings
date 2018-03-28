@@ -5,6 +5,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="rules" type="JSON" />
       <mapping pattern="class-mobile-app-widget" type="PHP" />
+      <mapping pattern="css/dice-newsletter-widget-public" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="myfile.js" type="PLAIN_TEXT" />
       <mapping pattern="class-mobile-app-widget.php" type="PLAIN_TEXT" />
