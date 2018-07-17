@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Node Security" displayType="STICKY_BALLOON" shouldLog="false" />
+  </component>
+</application>
