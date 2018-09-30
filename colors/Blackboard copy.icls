@@ -43,6 +43,11 @@
         <option name="BACKGROUND" value="e7ffb3" />
       </value>
     </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="9ccffc" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="743d3d" />
@@ -263,6 +268,7 @@
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e4e4ff" />
+        <option name="BACKGROUND" value="252bfe" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -918,8 +924,8 @@
     </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c0a54" />
-        <option name="BACKGROUND" value="dd1518" />
+        <option name="FOREGROUND" value="7df465" />
+        <option name="BACKGROUND" value="dd6d17" />
       </value>
     </option>
     <option name="MACRONAME">
