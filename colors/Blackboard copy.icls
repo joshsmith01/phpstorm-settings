@@ -37,6 +37,12 @@
         <option name="BACKGROUND" value="6e3b3b" />
       </value>
     </option>
+    <option name="BASH.BINARY_DATA">
+      <value>
+        <option name="FOREGROUND" value="1d2e41" />
+        <option name="BACKGROUND" value="ff4271" />
+      </value>
+    </option>
     <option name="BASH.HERE_DOC">
       <value>
         <option name="FOREGROUND" value="ff3221" />
