@@ -42,8 +42,12 @@
           <option name="url" value="git@smfsvn.git.beanstalkapp.com:/smfsvn/swearby-nuxt-v2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@smfsvn.git.beanstalkapp.com:/smfsvn/caseware-alessa-wp-theme.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/sites" />
+    <option name="cloneParentDir" value="$USER_HOME$/sites/caseware-alessa/wp-content" />
   </component>
 </application>
