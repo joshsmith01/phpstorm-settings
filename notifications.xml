@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Node Security" displayType="NONE" shouldLog="false" />
-  </component>
-</application>
