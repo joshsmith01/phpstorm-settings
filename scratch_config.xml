@@ -10,9 +10,10 @@
         <option value="slider.css" />
         <option value="rev-slider-custom-js.js" />
         <option value="starter-talking-points.md" />
+        <option value="list.md" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="starter-talking-points.md" />
+    <option name="lastOpenedScratch" value="rollcall.md" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
