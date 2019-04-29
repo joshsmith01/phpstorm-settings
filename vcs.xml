@@ -62,8 +62,12 @@
           <option name="url" value="http://git.heroku.com" />
           <option name="userName" value="joshs@sanbornagency.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:redbridgenet/developer-docs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/sites/breyercapital/wp-content/themes" />
+    <option name="cloneParentDir" value="$USER_HOME$/sites" />
   </component>
 </application>
