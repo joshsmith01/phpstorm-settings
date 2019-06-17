@@ -5,7 +5,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="eee" value="&lt;?php _e( '$SELECTION$', 'rbte-greenhouse-jobs' ); ?&gt;" description="Display translated text." toReformat="true" toShortenFQNames="true">
+  <template name="eee" value="&lt;?php _e( '$SELECTION$', 'te' ); ?&gt;" description="Display translated text." toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
