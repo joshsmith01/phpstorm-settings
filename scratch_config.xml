@@ -3,31 +3,9 @@
     <option name="defaultScratchMeaning" value="TOPMOST" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="scratch_1.md" />
-        <option value="endpoint-bakpax.js" />
-        <option value="rollcall.md" />
-        <option value="format.js" />
-        <option value="slider.css" />
-        <option value="rev-slider-custom-js.js" />
-        <option value="starter-talking-points.md" />
-        <option value="list.md" />
-        <option value="how to translate.md" />
-        <option value="test.md" />
-        <option value="bakpax.md" />
-        <option value="dd.html" />
-        <option value="dummy data.txt" />
-        <option value="scratch.md" />
-        <option value="scratch.txt" />
-        <option value="scratch_2.md" />
-        <option value="scratch_1.txt" />
-        <option value="scratch_2.txt" />
-        <option value="scratch.json" />
-        <option value="sysdig_lleading-companies.html" />
-        <option value="sysdig_global-content-block_html_awards.html" />
-        <option value="scratch_3.md" />
+        <option value="TODOs in Greenhouse.md" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.md" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
