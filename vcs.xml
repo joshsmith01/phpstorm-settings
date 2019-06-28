@@ -66,6 +66,10 @@
           <option name="url" value="git@github.com:redbridgenet/developer-docs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:reedbarger/hooks-news.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/sites" />
