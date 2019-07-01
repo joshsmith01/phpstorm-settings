@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../wp-content/themes/snaplogic/sass/navigation/_mega-menu.scss [snaplogic]'" />
-    <option name="defaultScopeName" value="File '.../wp-content/themes/snaplogic/sass/navigation/_mega-menu.scss [snaplogic]'" />
-    <option name="SEARCH_SCOPE" value="File '.../wp-content/themes/snaplogic/sass/navigation/_mega-menu.scss [snaplogic]'" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
