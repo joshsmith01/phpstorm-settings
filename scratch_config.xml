@@ -1,6 +1,13 @@
 <application>
   <component name="ScratchConfig">
     <option name="defaultScratchMeaning" value="TOPMOST" />
+    <option name="fullScratchNamesOrdered">
+      <list>
+        <option value="scratch.md" />
+        <option value="1324_Evolv Page Speed tests and fixes.md" />
+        <option value="1324_evolve-ascent_page-speed-test-and-fixes.md" />
+      </list>
+    </option>
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
