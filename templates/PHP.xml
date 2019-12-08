@@ -1,0 +1,14 @@
+<templateSet group="PHP">
+  <template name="esc" value="&lt;?php echo esc_html( '$SELECTION$' ) ?&gt;" description="surrond with WordPress esc_html function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="eee" value="&lt;?php _e( '$SELECTION$', 'flag-status-core' ); ?&gt;" description="Display translated text." toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
