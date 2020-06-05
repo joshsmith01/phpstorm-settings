@@ -10,7 +10,6 @@
       <mapping pattern="split-button-dropdown.html" type="PLAIN_TEXT" />
       <mapping pattern="css/dice-newsletter-widget-public" type="PLAIN_TEXT" />
       <mapping pattern="class-mobile-app-widget.php" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="myfile.js" type="PLAIN_TEXT" />
       <mapping pattern="q-007" type="PLAIN_TEXT" />
       <mapping pattern=".installedExtras" type="PLAIN_TEXT" />
