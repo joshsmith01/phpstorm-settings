@@ -4,7 +4,7 @@
     <property name="created">2020-03-03T20:38:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-07-07T13:41:25</property>
+    <property name="modified">2020-07-07T16:39:07</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -283,7 +283,8 @@
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="162430" />
+        <option name="FOREGROUND" value="20a3b4" />
+        <option name="BACKGROUND" value="91fc8a" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
