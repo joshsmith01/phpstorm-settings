@@ -8,14 +8,14 @@
       <mapping pattern="class-mobile-app-widget" type="PHP" />
       <mapping pattern="q-007" type="PLAIN_TEXT" />
       <mapping pattern=".installedExtras" type="PLAIN_TEXT" />
-      <mapping pattern="split-button-dropdown.html" type="PLAIN_TEXT" />
-      <mapping pattern="myfile.js" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
-      <mapping pattern="utility-convert-to-timezone" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern="aaaa" type="PLAIN_TEXT" />
-      <mapping pattern="class-mobile-app-widget.php" type="PLAIN_TEXT" />
       <mapping pattern="css/dice-newsletter-widget-public" type="PLAIN_TEXT" />
+      <mapping pattern="split-button-dropdown.html" type="PLAIN_TEXT" />
+      <mapping pattern="myfile.js" type="PLAIN_TEXT" />
+      <mapping pattern="utility-convert-to-timezone" type="PLAIN_TEXT" />
+      <mapping pattern="class-mobile-app-widget.php" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
