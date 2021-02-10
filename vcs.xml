@@ -82,9 +82,13 @@
           <option name="url" value="git@github.com:WebPT-Marketing/performance-monitor.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:WebPT-Marketing/lander.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/sites" />
+    <option name="cloneParentDir" value="$USER_HOME$/sites/wp.webpt" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_DIFF_PREVIEW" value="true" />
