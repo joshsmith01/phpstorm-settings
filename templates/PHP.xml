@@ -11,4 +11,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="lll" value="&lt;?php echo get_home_url( null, '$SELECTION$'); ?&gt;" description="Display URL with path." toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
