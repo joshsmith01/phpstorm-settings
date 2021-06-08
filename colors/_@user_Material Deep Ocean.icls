@@ -4,18 +4,29 @@
     <property name="created">2020-01-16T11:36:56</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-07-07T13:33:57</property>
+    <property name="modified">2021-02-23T09:50:15</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Inconsolata-g for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="1b2529" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="f111a" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="173347" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
@@ -252,14 +263,34 @@
         <option name="FOREGROUND" value="536c46" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="6871ff" />
+      </value>
+    </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="1477db" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="79e7fa" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="c5c7" />
+      </value>
+    </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="fa9595" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -269,22 +300,32 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="717cb4" />
+        <option name="FOREGROUND" value="c7c7c7" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="42d425" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="3cdf2b" />
+      </value>
+    </option>
+    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff76ff" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="ff2b70" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="f4d300" />
       </value>
     </option>
     <option name="CONSOLE_OUTPUT">
@@ -295,14 +336,19 @@
     <option name="CONSOLE_RANGE_TO_EXECUTE">
       <value />
     </option>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f9291b" />
+      </value>
+    </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="ff2600" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f8f8f0" />
+        <option name="FOREGROUND" value="c3cee3" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -313,12 +359,17 @@
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f8f8f0" />
+        <option name="FOREGROUND" value="feffff" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f1d000" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="ffe700" />
       </value>
     </option>
     <option name="CSS.CLASS_NAME">
@@ -1310,7 +1361,7 @@
     </option>
     <option name="LOG_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="26d980" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
