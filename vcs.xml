@@ -91,6 +91,7 @@
     <option name="cloneParentDir" value="$USER_HOME$/sites/wp.webpt" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
     <option name="SHOW_DIFF_PREVIEW" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
