@@ -3,6 +3,7 @@
     <option name="sessionFiles">
       <list>
         <option value="file://$USER_HOME$/sites/old-getpt/wp-config.php" />
+        <option value="file:///private/etc/hosts" />
       </list>
     </option>
     <option name="supportedFilePatterns">
