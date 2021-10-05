@@ -27,9 +27,11 @@
         <option value="scratch_15.js" />
         <option value="scratch_16.js" />
         <option value="scratch_17.js" />
+        <option value="scratch_18.js" />
+        <option value="scratch_19.md" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch_1.md" />
+    <option name="lastOpenedScratch" value="scratch_18.js" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
