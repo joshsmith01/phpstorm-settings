@@ -4,7 +4,7 @@
     <property name="created">2018-10-22T16:39:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2020-04-03T14:53:38</property>
+    <property name="modified">2021-08-07T16:49:19</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <console-font>
@@ -18,10 +18,10 @@
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
-    <option name="FILESTATUS_ADDED" value="9ccc65" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_COPIED" value="9ccc65" />
-    <option name="FILESTATUS_DELETED" value="ef5350" />
-    <option name="FILESTATUS_HIJACKED" value="7e57c2" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="ef5350" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="395a75" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ffeb95" />
@@ -32,14 +32,14 @@
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="5f7e97" />
     <option name="FILESTATUS_MERGED" value="a2bffc" />
-    <option name="FILESTATUS_MODIFIED" value="e2b93d" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
-    <option name="FILESTATUS_OBSOLETE" value="" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
     <option name="FILESTATUS_RENAMED" value="7e57c2" />
-    <option name="FILESTATUS_SUPPRESSED" value="d6deeb" />
-    <option name="FILESTATUS_SWITCHED" value="e2b93d" />
-    <option name="FILESTATUS_UNKNOWN" value="addb67" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="addb67" />
     <option name="FILESTATUS_changelistConflict" value="ffeb95" />
     <option name="FILESTATUS_modifiedOutside" value="e2b93d" />
