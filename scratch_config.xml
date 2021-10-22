@@ -3,41 +3,10 @@
     <option name="defaultScratchMeaning" value="TOPMOST" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="standup.md" />
-        <option value="scratch.html" />
-        <option value="scratch.md" />
-        <option value="scratch.txt" />
-        <option value="scratch_1.md" />
-        <option value="scratch_2.md" />
-        <option value="scratch_3.md" />
-        <option value="scratch.js" />
-        <option value="scratch_4.md" />
-        <option value="scratch_1.html" />
-        <option value="scratch_1.js" />
-        <option value="scratch_5.md" />
-        <option value="scratch_6.md" />
-        <option value="scratch_7.json" />
-        <option value="scratch_8.json" />
-        <option value="scratch_9.json" />
-        <option value="scratch_10.json" />
-        <option value="scratch_11.md" />
-        <option value="scratch_12.md" />
-        <option value="scratch_13.json" />
-        <option value="scratch_14.md" />
-        <option value="scratch_15.js" />
-        <option value="scratch_16.js" />
-        <option value="scratch_17.js" />
-        <option value="scratch_18.js" />
-        <option value="scratch_19.md" />
-        <option value="scratch_20.js" />
-        <option value="scratch_21.md" />
-        <option value="scratch_22.js" />
-        <option value="scratch_23.md" />
-        <option value="POST output from Unbounce webhook.txt" />
-        <option value="scratch_24.json" />
+        <option value="2022 SMART Goals.md" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch_23.md" />
+    <option name="lastOpenedScratch" value="2022 SMART Goals.md" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
