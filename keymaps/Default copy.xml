@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="shift meta slash" />
   </action>
   <action id="Graph.ApplyCurrentLayout" />
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="Scratch.RenameScratch">
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
