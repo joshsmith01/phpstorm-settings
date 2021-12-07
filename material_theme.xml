@@ -4,9 +4,6 @@
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
-    <option name="highContrast" value="true" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="premium" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
@@ -21,9 +18,9 @@
     <option name="useMaterialWallpapers" value="true" />
     <option name="useProjectFrame" value="true" />
     <option name="tabsHeight" value="42" />
-    <option name="accentColor" value="ab47bc" />
+    <option name="accentColor" value="416a9b" />
     <option name="highlightColor" value="cbe920" />
-    <option name="selectedTheme" value="PALENIGHT" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-202ba464:169d1ff292f:-8000" />
     <option name="version" value="6.10.1" />
     <option name="tabHighlightPosition" value="None" />
