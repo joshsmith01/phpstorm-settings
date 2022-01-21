@@ -5,6 +5,7 @@
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
     <option name="allowDataCollection" value="true" />
+    <option name="autoResetColorScheme" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -17,6 +18,7 @@
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
     <option name="useProjectFrame" value="true" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="42" />
     <option name="accentColor" value="ff9d00" />
     <option name="highlightColor" value="cbe920" />
