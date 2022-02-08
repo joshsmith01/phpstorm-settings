@@ -5,6 +5,7 @@
       <mapping pattern="facebook-joshsmith01 (1)" type="AUTO_DETECTED" />
       <mapping pattern="facebook-joshsmith01" type="AUTO_DETECTED" />
       <mapping ext="rules" type="JSON" />
+      <removed_mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="burger-menu/burger-menu" type="JavaScript" />
       <mapping pattern="test" type="Markdown" />
       <mapping pattern="class-mobile-app-widget" type="PHP" />
