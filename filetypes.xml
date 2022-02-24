@@ -4,6 +4,9 @@
     <extensionMap>
       <mapping pattern="facebook-joshsmith01 (1)" type="AUTO_DETECTED" />
       <mapping pattern="facebook-joshsmith01" type="AUTO_DETECTED" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping ext="rules" type="JSON" />
       <mapping pattern="burger-menu/burger-menu" type="JavaScript" />
       <mapping pattern="test" type="Markdown" />
@@ -23,6 +26,7 @@
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="3747448327" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="TSV" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />

@@ -1,10 +1,11 @@
-<scheme name="VibrantInk copy" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Panic Sans" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+<scheme name="_@user_VibrantInk" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2022-02-24T14:03:18</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2021.3.1.0.0</property>
+    <property name="modified">2022-02-24T14:03:20</property>
+    <property name="originalScheme">VibrantInk</property>
+  </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="333300" />
@@ -39,31 +40,6 @@
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="743d3d" />
-      </value>
-    </option>
-    <option name="BUILDOUT.KEY">
-      <value>
-        <option name="FOREGROUND" value="ff6600" />
-      </value>
-    </option>
-    <option name="BUILDOUT.KEY_VALUE_SEPARATOR">
-      <value>
-        <option name="FOREGROUND" value="ff6600" />
-      </value>
-    </option>
-    <option name="BUILDOUT.LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="9933cc" />
-      </value>
-    </option>
-    <option name="BUILDOUT.SECTION_NAME">
-      <value>
-        <option name="FOREGROUND" value="339999" />
-      </value>
-    </option>
-    <option name="BUILDOUT.VALUE">
-      <value>
-        <option name="FOREGROUND" value="66ff00" />
       </value>
     </option>
     <option name="COFFEESCRIPT.BAD_CHARACTER">
@@ -268,6 +244,7 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="" />
     <option name="CONSOLE_RED_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff6767" />
@@ -523,7 +500,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
@@ -534,30 +510,6 @@
       <value>
         <option name="EFFECT_COLOR" value="c0c0c0" />
         <option name="EFFECT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="DIFF_CONFLICT">
-      <value>
-        <option name="BACKGROUND" value="763f34" />
-        <option name="ERROR_STRIPE_COLOR" value="ff6647" />
-      </value>
-    </option>
-    <option name="DIFF_DELETED">
-      <value>
-        <option name="BACKGROUND" value="5b5b5b" />
-        <option name="ERROR_STRIPE_COLOR" value="747474" />
-      </value>
-    </option>
-    <option name="DIFF_INSERTED">
-      <value>
-        <option name="BACKGROUND" value="2f632f" />
-        <option name="ERROR_STRIPE_COLOR" value="99ff99" />
-      </value>
-    </option>
-    <option name="DIFF_MODIFIED">
-      <value>
-        <option name="BACKGROUND" value="465983" />
-        <option name="ERROR_STRIPE_COLOR" value="99ccff" />
       </value>
     </option>
     <option name="DJANGO_COMMENT">
@@ -602,12 +554,6 @@
         <option name="EFFECT_COLOR" value="ff6767" />
         <option name="ERROR_STRIPE_COLOR" value="cf5b56" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="EXECUTIONPOINT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="101" />
-        <option name="BACKGROUND" value="c7c7ff" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -1038,6 +984,27 @@
         <option name="FOREGROUND" value="80807f" />
       </value>
     </option>
+    <option name="OC.CONDITIONALLY_NOT_COMPILED">
+      <value>
+        <option name="FOREGROUND" value="686a4e" />
+      </value>
+    </option>
+    <option name="OC.MACRONAME">
+      <value>
+        <option name="FOREGROUND" value="908b25" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_FIELD">
+      <value>
+        <option name="FOREGROUND" value="fda5ff" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="50861a" />
+      </value>
+    </option>
     <option name="PHP_BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="6e3b3b" />
@@ -1113,6 +1080,9 @@
       <value>
         <option name="FOREGROUND" value="ff6600" />
       </value>
+    </option>
+    <option name="PHP_PREDEFINED SYMBOL">
+      <value />
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
@@ -1348,6 +1318,12 @@
         <option name="FOREGROUND" value="339999" />
       </value>
     </option>
+    <option name="RUBY_CONSTANT_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="fda5ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="RUBY_CVAR">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -1409,6 +1385,12 @@
         <option name="FOREGROUND" value="ff6600" />
       </value>
     </option>
+    <option name="RUBY_LOCAL_VAR_ID">
+      <value>
+        <option name="FOREGROUND" value="d4b01d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="RUBY_METHOD_NAME">
       <value>
         <option name="FOREGROUND" value="ffcc00" />
@@ -1424,14 +1406,26 @@
         <option name="FOREGROUND" value="ff6600" />
       </value>
     </option>
+    <option name="RUBY_PARAMDEF_CALL">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="RUBY_PARAMETER_ID">
       <value>
+        <option name="FOREGROUND" value="9edf" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_REGEXP">
       <value>
         <option name="FOREGROUND" value="44b4cc" />
+      </value>
+    </option>
+    <option name="RUBY_SPECIFIC_CALL">
+      <value>
+        <option name="FOREGROUND" value="fc9800" />
       </value>
     </option>
     <option name="RUBY_STRING">
@@ -1623,37 +1617,8 @@
     </option>
     <option name="SPY-JS.EXCEPTION">
       <value>
-        <option name="BACKGROUND" value="532b2e" />
+        <option name="BACKGROUND" value="532b22" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="SPY-JS.FUNCTION_SCOPE">
-      <value>
-        <option name="BACKGROUND" value="3a3a3a" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="SPY-JS.PATH_LEVEL_ONE">
-      <value>
-        <option name="BACKGROUND" value="425f44" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="SPY-JS.PATH_LEVEL_TWO">
-      <value>
-        <option name="EFFECT_COLOR" value="a9b7c6" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="SPY-JS.PROGRAM_SCOPE">
-      <value>
-        <option name="BACKGROUND" value="3a3a3a" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="SPY-JS.VALUE_HINT">
-      <value>
-        <option name="EFFECT_COLOR" value="a9b7c6" />
       </value>
     </option>
     <option name="SQL_BAD_CHARACTER">
@@ -1696,6 +1661,9 @@
       <value>
         <option name="FOREGROUND" value="339999" />
       </value>
+    </option>
+    <option name="SQL_PARAMETER">
+      <value />
     </option>
     <option name="SQL_PROCEDURE">
       <value>

@@ -3,7 +3,7 @@
     <property name="created">2019-12-09T13:16:29</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-09T21:34:03</property>
+    <property name="modified">2022-02-24T14:03:20</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -32,4 +32,31 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6182b8" />
   </colors>
+  <attributes>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="ffffe8" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="f0fff0" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="fff0ff" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="eafdfd" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="d9bcbc" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
