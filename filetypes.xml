@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="facebook-joshsmith01 (1)" type="AUTO_DETECTED" />
       <mapping pattern="facebook-joshsmith01" type="AUTO_DETECTED" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="rules" type="JSON" />
       <mapping pattern="burger-menu/burger-menu" type="JavaScript" />
       <mapping pattern="test" type="Markdown" />
