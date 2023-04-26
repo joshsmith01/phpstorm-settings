@@ -1,0 +1,189 @@
+<application>
+  <component name="ToolWindowLayout"><![CDATA[{
+  "layouts": {
+    "Custom": {
+      "v1": [
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isVisible": true,
+          "weight": 0.14136904,
+          "sideWeight": 0.5209627
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "weight": 0.20532168,
+          "sideWeight": 0.7873211
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "weight": 0.25
+        },
+        {
+          "id": "Favorites",
+          "order": 3,
+          "isSplit": true
+        },
+        {
+          "id": "Gulp",
+          "order": 4,
+          "isSplit": true
+        },
+        {
+          "id": "Pull Requests",
+          "order": 5
+        },
+        {
+          "id": "npm",
+          "order": 6,
+          "isVisible": true,
+          "weight": 0.14136904,
+          "sideWeight": 0.47903728,
+          "isSplit": true
+        },
+        {
+          "id": "Bookmarks",
+          "order": 7,
+          "isSplit": true
+        },
+        {
+          "id": "Message",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Find",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Event Log",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "isSplit": true
+        },
+        {
+          "id": "Debug",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.3149497
+        },
+        {
+          "id": "Problems View",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "File Transfer",
+          "order": 5,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Dilbert",
+          "order": 6,
+          "anchor": "BOTTOM",
+          "weight": 0.39479166
+        },
+        {
+          "id": "Services",
+          "order": 7,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Database Changes",
+          "order": 8,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Version Control",
+          "order": 9,
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.31
+        },
+        {
+          "id": "Flow",
+          "order": 10,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "TypeScript",
+          "order": 11,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Internal Method Tracing",
+          "order": 12,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Cvs",
+          "order": 13,
+          "anchor": "BOTTOM",
+          "weight": 0.25
+        },
+        {
+          "id": "Terminal",
+          "order": 14,
+          "anchor": "BOTTOM",
+          "weight": 0.2857639
+        },
+        {
+          "id": "Inspection",
+          "order": 15,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Run",
+          "order": 16,
+          "anchor": "BOTTOM",
+          "weight": 0.21562499
+        },
+        {
+          "id": "TODO",
+          "order": 17,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Commander",
+          "order": 0,
+          "anchor": "RIGHT",
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.4
+        },
+        {
+          "id": "Ant Build",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Hierarchy",
+          "order": 2,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "Database",
+          "order": 3,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "documentation.v2",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isSplit": true
+        }
+      ]
+    }
+  }
+}]]></component>
+</application>
