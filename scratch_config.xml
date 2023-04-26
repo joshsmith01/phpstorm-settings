@@ -3,19 +3,10 @@
     <option name="defaultScratchMeaning" value="TOPMOST" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="Meet the Mike Matascik.md" />
-        <option value="Marketing Monthly Recap.md" />
-        <option value="scratch_7.json" />
-        <option value="scratch_8.md" />
-        <option value="stand-up_digital-marketing-team.md" />
-        <option value="scratch_9.md" />
-        <option value="scratch_12.html" />
-        <option value="scratch_14.json" />
-        <option value="scratch_15.json" />
-        <option value="scratch.json" />
+        <option value="scratch.md" />
+        <option value="Digitial Marketing Team Stand-up.md" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="Marketing Monthly Recap.md" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
